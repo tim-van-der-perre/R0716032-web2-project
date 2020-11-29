@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="R0716032_Project:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad2999f0-5793-49a4-884d-7dcc57d00149" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="R0716032_Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1jKYtgHHHfaUrW4OGjAp4k4Eimp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2de jaar/herexamens/web1/herweb" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.16095617" />
+    <property name="project.structure.side.proportion" value="0.2039627" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.31">
+    <configuration name="UpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="R0716032_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.view" />
+      <option name="MAIN_CLASS_NAME" value="ui.view.UpdateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoegToeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="R0716032_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.view" />
+      <option name="MAIN_CLASS_NAME" value="ui.view.VoegToeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoegToeTest.Test_Correcte_invulvelden_gaan_naar_ovezicht" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="R0716032_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.view" />
+      <option name="MAIN_CLASS_NAME" value="ui.view.VoegToeTest" />
+      <option name="METHOD_NAME" value="Test_Correcte_invulvelden_gaan_naar_ovezicht" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoegToeValidatieTest.Test_bestaand_contact_toevoegen_geeft_errormessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="R0716032_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.view" />
+      <option name="MAIN_CLASS_NAME" value="ui.view.VoegToeValidatieTest" />
+      <option name="METHOD_NAME" value="Test_bestaand_contact_toevoegen_geeft_errormessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoekenValidatieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="R0716032_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.view" />
+      <option name="MAIN_CLASS_NAME" value="ui.view.ZoekenValidatieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="R0716032_Project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/R0716032_Project_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_R0716032_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58415" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="R0716032_Project:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VoegToeTest" />
+        <item itemvalue="JUnit.UpdateTest" />
+        <item itemvalue="JUnit.ZoekenValidatieTest" />
+        <item itemvalue="JUnit.VoegToeValidatieTest.Test_bestaand_contact_toevoegen_geeft_errormessage" />
+        <item itemvalue="JUnit.VoegToeTest.Test_Correcte_invulvelden_gaan_naar_ovezicht" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad2999f0-5793-49a4-884d-7dcc57d00149" name="Default Changelist" comment="" />
+      <created>1603554466169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603554466169</updated>
+      <workItem from="1603554468130" duration="22042000" />
+      <workItem from="1603791559866" duration="6734000" />
+      <workItem from="1603877891280" duration="4731000" />
+      <workItem from="1603886369655" duration="768000" />
+      <workItem from="1603896510348" duration="8510000" />
+      <workItem from="1604410128489" duration="5880000" />
+      <workItem from="1604937779322" duration="4264000" />
+      <workItem from="1605537423511" duration="3233000" />
+      <workItem from="1605610135865" duration="4219000" />
+      <workItem from="1606213833158" duration="39413000" />
+      <workItem from="1606487803449" duration="33609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-493" y="-1083" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603617597798">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-493" y="-1083" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1603617597798" />
+    <state x="-714" y="-1348" width="3256" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606398757995">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-714" y="-1348" width="3256" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606398757995" />
+    <state x="-142" y="-1022" key="#com.intellij.ide.util.MemberChooser" timestamp="1606310096452">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-142" y="-1022" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606310096452" />
+    <state x="-317" y="-1049" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603557595785">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-317" y="-1049" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1603557595785" />
+    <state x="-117" y="-1028" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1606317077293">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-117" y="-1028" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606317077293" />
+    <state x="-210" y="-995" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603793767120">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-210" y="-995" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1603793767120" />
+    <state x="-217" y="-984" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1603557662121">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-217" y="-984" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1603557662121" />
+    <state x="238" y="188" key="FileChooserDialogImpl" timestamp="1606418794191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-167" y="-984" key="FileChooserDialogImpl/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606388811488" />
+    <state x="238" y="188" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606418794191" />
+    <state width="2355" height="382" key="GridCell.Tab.0.bottom" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.0.bottom/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.0.center" timestamp="1606645609206">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.0.center/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609206" />
+    <state width="2355" height="382" key="GridCell.Tab.0.left" timestamp="1606645609206">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.0.left/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609206" />
+    <state width="2355" height="382" key="GridCell.Tab.0.right" timestamp="1606645609206">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.0.right/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609206" />
+    <state width="2355" height="382" key="GridCell.Tab.1.bottom" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.1.bottom/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.1.center" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.1.center/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.1.left" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.1.left/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.1.right" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.1.right/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.2.bottom" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.2.bottom/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.2.center" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.2.center/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.2.left" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.2.left/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state width="2355" height="382" key="GridCell.Tab.2.right" timestamp="1606645609221">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="2355" height="382" key="GridCell.Tab.2.right/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645609221" />
+    <state x="673" y="-1161" width="1364" height="854" key="SettingsEditor" timestamp="1606645511214">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="673" y="-1161" width="1364" height="854" key="SettingsEditor/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606645511214" />
+    <state x="723" y="-964" key="chooseDestDirectoryDialog" timestamp="1606389026736">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="723" y="-964" key="chooseDestDirectoryDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606389026736" />
+    <state x="-244" y="-918" key="com.intellij.ide.util.TipDialog" timestamp="1606487804934">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-244" y="-918" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606487804934" />
+    <state x="250" y="303" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604937792399" />
+    <state x="617" y="-848" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606388993226">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="617" y="-848" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606388993225" />
+    <state x="571" y="-1122" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606310038036">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="571" y="-1122" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606310038036" />
+    <state x="-565" y="-1117" key="new project wizard" timestamp="1605542547224">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-565" y="-1117" key="new project wizard/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1605542547224" />
+    <state x="570" y="-389" key="run.anything.popup" timestamp="1606389241673">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="570" y="-389" key="run.anything.popup/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1606389241673" />
+    <state x="-34" y="-1121" width="672" height="678" key="search.everywhere.popup" timestamp="1603899895733">
+      <screen x="-806" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-34" y="-1121" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-806.-1440.3440.1400@-806.-1440.3440.1400" timestamp="1603899895733" />
+  </component>
+</project>

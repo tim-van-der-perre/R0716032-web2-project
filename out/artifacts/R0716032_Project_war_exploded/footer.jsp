@@ -1,0 +1,1 @@
+<footer>Corona-tracker op kot, WebOntwikkeling 2, Tim Van der Perre, R0716032</footer>
